@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning web development, problem solving
 - 👩🏻‍💻 I’m looking to collaborate on potential internship opportunities
-- 📫 How to reach me shaani.singh03@gmail.com
+- 📧 How to reach me shaani.singh03@gmail.com
 
 <!---
 shalini2203/shalini2203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
